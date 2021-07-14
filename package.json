@@ -32,7 +32,7 @@
     "gulp": "^3.9.1",
     "gulp-header": "^1.8.8",
     "gulp-strip-comments": "^2.4.5",
-    "ngn": "0.3.30",
+    "ngn": "0.3.31",
     "ngn-sse": "^0.0.3",
     "snazzy": "^7.0.0",
     "standard": "^10.0.2",
