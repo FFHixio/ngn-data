@@ -29,13 +29,13 @@
   "devDependencies": {
     "babel-eslint": "^7.2.3",
     "buffer-equal-constant-time": "^1.0.1",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.0",
     "gulp-header": "^1.8.8",
     "gulp-strip-comments": "^2.4.5",
     "ngn": "0.3.30",
     "ngn-sse": "^0.0.3",
     "snazzy": "^7.0.0",
-    "standard": "^10.0.2",
+    "standard": "^11.0.0",
     "standard-tap": "^1.0.1",
     "tap-spec": "^4.1.1",
     "tape": "^4.6.3"
